@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: 와이 모바일 솔루션
+email: support@ymobilesolution.com
+description: 복잡한 모바일 세상을 # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https:/www.ymobilesolution.com" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
